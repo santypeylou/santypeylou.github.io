@@ -1,0 +1,51 @@
+body {
+    font-family:  "Arial", sans-serif;
+    background-color: #afafaf;
+    text-align: center;
+}
+
+.btrabajos{
+    order: 1;
+    position: relative;
+    font-size: 20px;
+    left: 450px;
+    top: 90px;
+}
+
+.bcontacto{
+    order: 1;
+    position: relative;
+    font-size: 20px;
+    left: 500px;
+    top: 90px;
+}
+
+.nombre{
+    color: #000000;
+    position: relative; 
+    left: -450px;
+    font-size: 25px;
+}
+
+.imagenes{
+    position: relative;
+    top: -20px;
+}
+
+.d1{
+    position: relative;
+}
+
+.d2{
+    position: relative;
+}
+
+.smi{  
+    position: relative;
+    right: 160px;
+}
+
+.yo{
+    position: relative;
+    right: 60px;
+}
